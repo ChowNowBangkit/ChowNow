@@ -20,4 +20,5 @@ class MainActivity : AppCompatActivity() {
 
     // notes ini contoh aja
     // yaa
+    // tambah 1 jadi berapaa??
 }
