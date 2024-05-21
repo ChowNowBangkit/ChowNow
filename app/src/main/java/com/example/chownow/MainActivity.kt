@@ -19,4 +19,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     // notes ini contoh aja
+    // yaa
 }
